@@ -26,9 +26,9 @@ Three real-world datasets analyzed (files **not included in the repo**):
 
 | File                                                      | Description                                                   |
 | --------------------------------------------------------- | ------------------------------------------------------------- |
-| `pure_python_stats.py`                                    | Descriptive statistics using only the Python standard library |
-| `pandas_stats.py`                                         | Analysis & visualizations using Pandas                        |
-| `polars_stats.py`                                         | Analysis & visualizations using Polars                        |
+| `pure_python_stats_r4.py`                                    | Descriptive statistics using only the Python standard library |
+| `pandas_stats_r4.py`                                         | Analysis & visualizations using Pandas                        |
+| `polars_stats_r4.py`                                         | Analysis & visualizations using Polars                        |
 
 ---
 
@@ -45,9 +45,9 @@ pip install pandas polars matplotlib seaborn
 3️⃣ Run the analysis scripts:
 
 ```bash
-python pure_python_stats.py
-python pandas_stats.py
-python polars_stats.py
+python pure_python_stats_r4.py
+python pandas_stats_r4.py
+python polars_stats_r4.py
 ```
 
 ---
